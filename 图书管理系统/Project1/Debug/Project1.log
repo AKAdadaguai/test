@@ -1,0 +1,42 @@
+﻿  源.cpp
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(46,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(63,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(66,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(70,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(106,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(111,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(132,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(156,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(161,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(181,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(201,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(220,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(231,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(238,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(254,6): error C2059: 语法错误:“delete”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(255,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(255,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(410,44): error C2664: “void print(system *)”: 无法将参数 1 从“const char [22]”转换为“system *”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(410,10): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(78,6): message : 参见“print”的声明
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(337,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(425,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(430,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(452,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(500,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(505,16): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(549,36): error C2664: “void savefile(system *,char *)”: 无法将参数 2 从“const char [14]”转换为“char *”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(549,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(44,6): message : 参见“savefile”的声明
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(565,36): error C2664: “void savefile(system *,char *)”: 无法将参数 2 从“const char [14]”转换为“char *”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(565,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(44,6): message : 参见“savefile”的声明
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(572,36): error C2664: “void savefile(system *,char *)”: 无法将参数 2 从“const char [14]”转换为“char *”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(572,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(44,6): message : 参见“savefile”的声明
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(530,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(541,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(546,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(595,33): error C2664: “void wrfile(system *,char *)”: 无法将参数 2 从“const char [14]”转换为“char *”
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(595,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\新建文件夹 (3)\Project1\Project1\源.cpp(61,6): message : 参见“wrfile”的声明
